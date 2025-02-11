@@ -3975,9 +3975,9 @@ hr { background-color: #E6ECF8; }
 
 .hero-foot { padding: 0rem 1.5rem; }
 
-.hero-foot img.is-bottom { margin-bottom: -0.4rem; }
+.hero-foot img.is-bottom { margin-bottom: 0.1rem; }
 
-@media screen and (min-width: 769px) { .hero-foot img.is-bottom { margin-bottom: -0.45rem; max-width: 860px; } }
+@media screen and (min-width: 769px) { .hero-foot img.is-bottom { margin-bottom: 0.1rem; max-width: 860px; } }
 
 .hero-foot .mentor { max-width: 480px !important; }
 
